@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019.11.30 21:18:08.840.cbproj,C:\Users\kulyk\Documents\RAD Studio\Projects\Project10.cbproj=C:\Users\kulyk\Documents\RAD Studio\Projects\Lab06.cbproj</Transaction>
+    <Transaction>2021.04.22 15:07:17.480.cbproj,C:\Users\kulyk\OneDrive\Документы\RAD Studio\Projects\Lab06.cbproj=C:\Users\kulyk\OneDrive\Документы\RAD Studio\Projects\nk_02\Lab06.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\Projects"/>
+    <File Path="..\Unit12.cpp"/>
+    <File Path="..\Unit12.cpp"/>
+    <File Path="..\Unit12.dfm"/>
+    <File Path="..\Unit12.h"/>
+    <File Path="Lab06.cpp"/>
+    <File Path="Lab06.res"/>
+  </ProjectSortOrder>
+</BorlandProject>
