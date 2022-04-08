@@ -1,0 +1,15 @@
+body {
+  margin:1.5cm 1.5cm 2.0cm 2.5cm;
+  background-color:##f9f7ef;
+  background:url(backgr.png) fixed;
+} 
+h1 { 
+   color:#4e0c6d;
+  font:20px Arial;
+  font-weight:bold; 
+}
+p { 
+font-size:18px; 
+ 
+}
+
