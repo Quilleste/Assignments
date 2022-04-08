@@ -1,0 +1,47 @@
+h1{
+font-size:30;
+text-shadow:1px 0px 4px black, 0 0 2px blue;
+color: #acafaf;
+text-align:center;
+}
+hr{
+	border:1px #839496;
+	color:#474a4f;
+	border: 0.2;
+	width:100%;
+	margin-top:100px;"
+}
+body{
+	background-color:#36393f;
+	background:url(flakes3.jpg) fixed;
+}
+table{
+	font-color:#839496;
+	color:#839496;
+}
+.lab{
+	background: #1f1f1f;
+	border-radius: 40px 10px;
+	padding-bottom:10px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:10px;
+	font-size:14px;
+	font-color:#a9a9a9;
+	color:#a9a9a9;
+}
+.loadingPage{
+	background:#2a2c31;
+	font-size:14px;
+	font-color:#839496;
+	color:#839496;
+	position:fixed;
+	left:0;
+	top:0;
+	right:0;
+	z-index:10;
+	bottom:0;
+}
+a:link {color: #848484;text-decoration: none;}
+a:visited {color: #848484;}
+a:hover {color: white;}
