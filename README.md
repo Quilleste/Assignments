@@ -10,3 +10,5 @@ Academic coursework
     ‣ NeuralNet_Kohonen - researching Konohen neural net within the given task. IDE - Builder C++
     
     ‣ Methods_Algorithms_of_Image_Detection - researching some methods for image detection within the given task. IDE - Builder C++ 
+
+    ‣ Linear_Regression_Analysis - researching the correlation beetween different diseases and the blood results of diffent patients (all the data is given beforehand). Pearson's correlation coeff is used for this
