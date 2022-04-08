@@ -7,4 +7,6 @@ Academic coursework
     
     ‣ Master's_Project - A MultiAgent System model of a manufacturing process on a factory without any real-life reference. Programming language - Java, the framework used for agent implementation - JADE (Java Agent DEvelopment Framework), with GUI.
     
+    ‣ NeuralNet_Kohonen - researching Konohen neural net within the given task. IDE - Builder C++
     
+    ‣ Methods_Algorithms_of_Image_Detection - researching some methods for image detection within the given task. IDE - Builder C++ 
